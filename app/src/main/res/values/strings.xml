@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">11_17</string>
+    <array name="labels">
+        <item>旅游</item>
+        <item>免费游戏</item>
+        <item>我爱我de国</item>
+        <item>支付宝</item>
+        <item>京东</item>
+        <item>天猫</item>
+        <item>淘宝</item>
+        <item>好123上网导航</item>
+        <item>高德地图</item>
+        <item>百度地图导航</item>
+        <item>qq音乐</item>
+        <item>酷狗音乐</item>
+        <item>天天动听</item>
+        <item>唯品会</item>
+        <item>爱奇艺</item>
+        <item>腾讯视频</item>
+        <item>谷歌浏览器</item>
+        <item>百度浏览器</item>
+        <item>360浏览器</item>
+        <item>火狐浏览器</item>
+        <item>猎豹浏览器</item>
+        <item>任时光匆匆流去我只在乎你，心甘情愿感染你的气息，人生几何，能够得到知己，失去生命的力量也不可惜，所以我 </item>
+        <item>。</item>
+    </array>
+</resources>
